@@ -1,16 +1,3 @@
-#botones > div > a{
-  width: 100%;
-}
-
-#botones{
-  height: 100%;
-}
-
-#wrapper{
-  height: 100vh;
-}
-
-#menu{
-  background-color: white;
-  margin-top: 20vh;
+#btnSettings{
+  float: right;
 }
